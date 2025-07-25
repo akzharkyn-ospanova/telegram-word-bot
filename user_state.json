@@ -1,0 +1,7 @@
+{
+  "current_word_index": 0,
+  "review_list": [
+    {"word": "apple", "translation": "яблоко", "interval": 1, "last_review": "2025-07-20"},
+    {"word": "table", "translation": "стол", "interval": 3, "last_review": "2025-07-15"}
+  ]
+}
